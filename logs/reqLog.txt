@@ -1,0 +1,14 @@
+20251229	14:48:52 	 8d217988-697a-4a44-b809-f5e12ca3c479 	 /	 GET} 
+20251229	14:48:52 	 40387094-3da8-4d54-87bb-6d0f2fdcb831 	 /css/style.css	 GET} 
+20251229	14:48:52 	 018a6cf1-0e4d-4ece-9bc4-b4e853f6b629 	 /favicon.ico	 GET} 
+20251229	14:49:49 	 a5f8a0ef-9fc8-40f5-acaf-3b66bb9650a8 	 /404	 GET} 
+20251229	14:49:49 	 bacac59f-e970-4b5a-900a-ea11ad24283d 	 /css/style.css	 GET} 
+20251229	14:50:07 	 a6621b91-e239-4357-9ebe-fa5b05f5b801 	 /new-page	 GET} 
+20251229	14:50:07 	 65fd1172-c0e5-4fe3-81f4-c30d291cc5b1 	 /img/img1.jpg	 GET} 
+20251229	14:50:07 	 853973e5-0710-46fa-919b-b295919a16ff 	 /css/style.css	 GET} 
+20251229	14:50:18 	 5dd8c8a7-273b-4cfd-b9a2-8346f6d6b753 	 /test	 GET} 
+20251229	14:50:18 	 81736d02-84ae-4b14-a9c1-8a503087aa16 	 /css/style.css	 GET} 
+20251229	14:50:29 	 8f0f4502-5d08-4dd0-af34-5b1803ff3db1 	 /subdir	 GET} 
+20251229	14:50:29 	 da0d0fe5-6a9c-4034-aa5e-72f1e67cdd20 	 /css/style.css	 GET} 
+20251229	14:50:39 	 4a64551d-54a6-4753-a17c-6eb0000a8e23 	 /subdir/test	 GET} 
+20251229	14:50:52 	 2736f164-e6e5-4314-8efd-9ad97619e718 	 /subdir/test.html	 GET} 
