@@ -1,0 +1,6 @@
+20260105	23:05:56 	 c66d8f17-356d-4e58-9b28-129803366871 	 TypeError: res.sendFile is not a function} 
+20260105	23:06:25 	 3a30083e-fa74-45f8-b9ca-8ca09be33c29 	 Error: ENOENT: no such file or directory, stat 'C:\Users\sirip\OneDrive\Desktop\Coding\nodeJs-learn\02-Express-JS\01-custom-web-server\views\subdir\test.html'} 
+20260105	23:19:57 	 1391851c-96d4-4bef-b4c0-98e1319cd307 	 ForbiddenError: Forbidden} 
+20260105	23:19:57 	 5b598569-a603-41ad-a6e3-ea5f1028c9e9 	 ForbiddenError: Forbidden} 
+20260105	23:25:13 	 ff1ef8f4-6782-4a37-b780-1ae59edd2c87 	 ForbiddenError: Forbidden} 
+20260105	23:25:28 	 5bd0cebc-a9cc-47c0-83f9-b07c3f447aa8 	 Error: ENOENT: no such file or directory, stat 'C:\Users\sirip\OneDrive\Desktop\Coding\nodeJs-learn\02-Express-JS\01-custom-web-server\views\index.html'} 
